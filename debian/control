@@ -1,0 +1,12 @@
+Source: openlayers
+Section: unknown
+Priority: extra
+Maintainer: Gareth Bailey <gb@kynesim.co.uk>
+Build-Depends: debhelper (>= 5)
+Standards-Version: 3.7.2
+
+Package: openlayers
+Architecture: all
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: Openlayers slippy map
+ Openlayers slippy map
