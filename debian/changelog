@@ -1,3 +1,9 @@
+openlayers (2.10-2) unstable; urgency=low
+
+  * Moved maintainership and sections
+
+ -- Alex Bennée <Alex.Bennee@cambridgebroadband.com>  Tue, 16 Nov 2010 12:07:17 +0000
+
 openlayers (2.10-1) unstable; urgency=low
 
   * Initial release (Closes: #nnnn)  <nnnn is the bug number of your ITP>

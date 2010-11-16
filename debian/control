@@ -1,7 +1,8 @@
 Source: openlayers
-Section: unknown
+Section: main
 Priority: extra
-Maintainer: Gareth Bailey <gb@kynesim.co.uk>
+Maintainer: support@cambridgebroadband.com
+X-Orig-Maintainer: Gareth Bailey <gb@kynesim.co.uk>
 Build-Depends: debhelper (>= 5)
 Standards-Version: 3.7.2
 
